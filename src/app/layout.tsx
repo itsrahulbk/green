@@ -1,11 +1,13 @@
-import './globals.css'
-import { Inter } from 'next/font/google'
+import type React from "react"
+import "./globals.css"
+import type { Metadata } from "next"
+import { Inter } from "next/font/google"
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] })
 
-export const metadata = {
-  title: 'KIS',
-  description: 'KIS',
+export const metadata: Metadata = {
+  title: "For Krishnaa Nair",
+  description: "A special message for Krishnaa Nair",
 }
 
 export default function RootLayout({
@@ -19,3 +21,4 @@ export default function RootLayout({
     </html>
   )
 }
+
