@@ -31,7 +31,7 @@ export default function Home() {
           </p>
 
           <p>
-            you have no idea how much you mean to me, if i could i would trade my bones for emerald stone coz green is
+            you have no idea how much you mean to me, if i could i would sell my own bones for emerald stone coz green is
             your favourite color and you deserve everything you love.
           </p>
 
